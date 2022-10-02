@@ -19,7 +19,9 @@ The replication documentation includes a structure of the folder organized as sh
 - importteachdat.do
 - importwage.do
 5. Documents (A subfolder of Vu-398-Project)
-- FinalPaper-Vu.docx
+- AnnotatedBibliography_KienVu.docx
+- Data&Methods-Vu.docx
+- LiteratureReview-Vu.docx
 - ReadMe-Vu-E398.docx
 6. Original-Data (A subfolder of Vu-398-Project)
 - Original Data (A subfolder of Original-Data)
