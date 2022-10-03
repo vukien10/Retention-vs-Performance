@@ -22,7 +22,8 @@ The replication documentation includes a structure of the folder organized as sh
 - AnnotatedBibliography_KienVu.docx
 - Data&Methods-Vu.docx
 - LiteratureReview-Vu.docx
-- ReadMe-Vu-E398.docx
+- Proposal - Vu.docx
+- Results&Discussions-Vu.docx
 6. Original-Data (A subfolder of Vu-398-Project)
 - Original Data (A subfolder of Original-Data)
 - classsize1213.xlsx to classsize1516.xlsx
