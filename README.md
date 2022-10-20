@@ -3,10 +3,10 @@
 I. Contents of the replication documentation (Vu-398-Project) -
 The replication documentation includes a structure of the folder organized as shown below: 
 1. [FinalPaper-Vu.pdf](https://github.com/vukien10/Retention-vs-Performance/blob/main/FinalPaper-Vu.pdf)
-2. (https://github.com/vukien10/Retention-vs-Performance/blob/main/ReadMe-Vu-E398.pdf "ReadMe-Vu-E398.pdf")
-3. [https://github.com/vukien10/Retention-vs-Performance/tree/main/Analysis-Data "Analysis-Data"] (A subfolder of Vu-398-Project)
+2. [ReadMe-Vu-E398.pdf](https://github.com/vukien10/Retention-vs-Performance/blob/main/ReadMe-Vu-E398.pdf )
+3. [Analysis-Data](https://github.com/vukien10/Retention-vs-Performance/tree/main/Analysis-Data ) (A subfolder of Vu-398-Project)
 - analysis-file.dta
-4. [https://github.com/vukien10/Retention-vs-Performance/tree/main/Command-Files "Command-Files"] (A subfolder of Vu-398-Project)
+4. [Command-Files](https://github.com/vukien10/Retention-vs-Performance/tree/main/Command-Files) (A subfolder of Vu-398-Project)
 - Analysis.do
 - Construction.do
 - Processing.do
@@ -18,13 +18,13 @@ The replication documentation includes a structure of the folder organized as sh
 - importretain.do
 - importteachdat.do
 - importwage.do
-5. [https://github.com/vukien10/Retention-vs-Performance/tree/main/Documents "Documents"] (A subfolder of Vu-398-Project)
+5. (Documents)[https://github.com/vukien10/Retention-vs-Performance/tree/main/Documents] (A subfolder of Vu-398-Project)
 - AnnotatedBibliography_KienVu.docx
 - Data&Methods-Vu.docx
 - LiteratureReview-Vu.docx
 - Proposal - Vu.docx
 - Results&Discussions-Vu.docx
-6. [https://github.com/vukien10/Retention-vs-Performance/tree/main/Original-Data "Original-Data"] (A subfolder of Vu-398-Project)
+6. (Original-Data)[https://github.com/vukien10/Retention-vs-Performance/tree/main/Original-Data] (A subfolder of Vu-398-Project)
 - Original Data (A subfolder of Original-Data)
 - classsize1213.xlsx to classsize1516.xlsx
 	- discp1213.xlsx to discp1516.xlsx
