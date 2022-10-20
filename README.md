@@ -2,7 +2,7 @@
 
 I. Contents of the replication documentation (Vu-398-Project) -
 The replication documentation includes a structure of the folder organized as shown below: 
-1. (https://github.com/vukien10/Retention-vs-Performance/blob/main/FinalPaper-Vu.pdf "FinalPaper-Vu.pdf")
+1. https://github.com/vukien10/Retention-vs-Performance/blob/main/FinalPaper-Vu.pdf "FinalPaper-Vu.pdf"
 2. (https://github.com/vukien10/Retention-vs-Performance/blob/main/ReadMe-Vu-E398.pdf "ReadMe-Vu-E398.pdf")
 3. [https://github.com/vukien10/Retention-vs-Performance/tree/main/Analysis-Data "Analysis-Data"] (A subfolder of Vu-398-Project)
 - analysis-file.dta
