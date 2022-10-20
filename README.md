@@ -18,13 +18,13 @@ The replication documentation includes a structure of the folder organized as sh
 - importretain.do
 - importteachdat.do
 - importwage.do
-5. (Documents)[https://github.com/vukien10/Retention-vs-Performance/tree/main/Documents] (A subfolder of Vu-398-Project)
+5. [Documents](https://github.com/vukien10/Retention-vs-Performance/tree/main/Documents) (A subfolder of Vu-398-Project)
 - AnnotatedBibliography_KienVu.docx
 - Data&Methods-Vu.docx
 - LiteratureReview-Vu.docx
 - Proposal - Vu.docx
 - Results&Discussions-Vu.docx
-6. (Original-Data)[https://github.com/vukien10/Retention-vs-Performance/tree/main/Original-Data] (A subfolder of Vu-398-Project)
+6. [Original-Data](https://github.com/vukien10/Retention-vs-Performance/tree/main/Original-Data) (A subfolder of Vu-398-Project)
 - Original Data (A subfolder of Original-Data)
 - classsize1213.xlsx to classsize1516.xlsx
 	- discp1213.xlsx to discp1516.xlsx
